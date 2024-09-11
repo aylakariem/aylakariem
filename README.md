@@ -44,7 +44,7 @@
   <a href="https://ko-fi.com/thespookyshroom" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
   </a>
-  <a href="www.linkedin.com/in/kayla-marie-patterson" target="_blank">
+  <a href="http://www.linkedin.com/in/kayla-marie-patterson" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
