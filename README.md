@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ✨Kayla✨ & I'm a Compensation Analyst & Excel Expert from the United States!</h2>
+<h2 align="left">✨Hello✨ I am a Senior Compensation Analyst & Excel Expert from the United States!</h2>
 
 ###
 
